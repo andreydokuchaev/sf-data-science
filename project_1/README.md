@@ -1,4 +1,4 @@
-# Проект 0. Анализ вакансий на HeadHunter
+# Проект 1. Анализ вакансий на HeadHunter
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/andreydokuchaev/sf-data-science/tree/main/project_1/README.md#Описание-проекта)  

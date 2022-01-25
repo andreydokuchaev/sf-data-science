@@ -130,3 +130,6 @@ dmypy.json
 
 # vscode settings
 .vscode/settings.json
+
+# data too big for github
+data

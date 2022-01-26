@@ -6,7 +6,7 @@
 [3. Краткая информация о данных](https://github.com/andreydokuchaev/sf-data-science/tree/main/project_1/README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/andreydokuchaev/sf-data-science/tree/main/project_1/README.md#Этапы-работы-над-проектом)  
 [5. Результат](https://github.com/andreydokuchaev/sf-data-science/tree/main/project_1/README.md#Результат)    
-[6. Выводы](https://github.com/andreydokuchaev/sf-data-science/tree/main/project_1/README.md#Выводы) 
+
 
 ### Описание проекта    
 Необходимо провести анализ, преобразование и очистку данных с резюме пользователей сайта HeadHunter для того,
@@ -16,38 +16,30 @@
 
 
 ### Какой кейс решаем?    
-....
-
-**Условия соревнования:**  
-....
-
-**Метрика качества**     
-....
-
-**Что практикуем**     
-....
+Компания хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Но для этого сначала необходимо
+преобразовать, исследовать и очистить данные.
 
 
 ### Краткая информация о данных
-....
+* dst-3.0_16_1_hh_database.csv - база с резюме с сайта hh.ru
+* ExchangeRates.csv - данные о курсах валют
   
 :arrow_up:[к оглавлению](https://github.com/andreydokuchaev/sf-data-science/tree/main/project_1/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
-....
+Проект состоит из 4 этапов:
+* базовый анализ структуры данных
+* преобразование данных
+* разведывательный анализ
+* очистка данных
 
 :arrow_up:[к оглавлению](https://github.com/andreydokuchaev/sf-data-science/tree/main/project_1/README.md#Оглавление)
 
 
 ### Результаты:  
-....
-
-:arrow_up:[к оглавлению](https://github.com/andreydokuchaev/sf-data-science/tree/main/project_1/README.md#Оглавление)
-
-
-### Выводы:  
-....
+В результате проектной работы мы получили готовые данные, которые в дальнейшем можно использовать для
+построения модели.
 
 :arrow_up:[к оглавлению](https://github.com/andreydokuchaev/sf-data-science/tree/main/project_1/README.md#Оглавление)
 

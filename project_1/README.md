@@ -21,7 +21,7 @@
 
 
 ### Краткая информация о данных
-* dst-3.0_16_1_hh_database.csv - база с резюме с сайта hh.ru
+* [dst-3.0_16_1_hh_database.csv](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing)- база с резюме с сайта hh.ru
 * ExchangeRates.csv - данные о курсах валют
   
 :arrow_up:[к оглавлению](https://github.com/andreydokuchaev/sf-data-science/tree/main/project_1/README.md#Оглавление)

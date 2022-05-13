@@ -133,3 +133,4 @@ dmypy.json
 
 # data too big for github
 dst-3.0_16_1_hh_database.csv
+hotels.csv
